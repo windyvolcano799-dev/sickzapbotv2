@@ -36,7 +36,7 @@ Tutto il codice è stato caricato su GitHub! 🎉
 
 ### 1. Clona il repository
 ```bash
-git clone https://github.com/your-username/sickzapbotv2.git
+git clone https://github.com/sick/sickzapbotv2.git
 cd sickzapbotv2
 ```
 
