@@ -36,7 +36,7 @@ Tutto il codice è stato caricato su GitHub! 🎉
 
 ### 1. Clona il repository
 ```bash
-git clone https://github.com/windyvolcano799-dev/sickzapbotv2.git
+git clone https://github.com/your-username/sickzapbotv2.git
 cd sickzapbotv2
 ```
 
@@ -60,7 +60,7 @@ npm start
 Vedrai apparire un **QR code** nel terminale.
 
 ### 5. Scansiona il QR code
-- Apri WhatsApp sul telefono
+- Apri **WhatsApp** sul telefono
 - Vai su **Impostazioni > Dispositivi collegati > Collega un dispositivo**
 - Inquadra il QR code con la fotocamera
 
@@ -195,6 +195,6 @@ Se hai problemi:
 
 ---
 
-**Bot creato con ❤️ da windyvolcano799-dev**
+**Bot open-source per WhatsApp** ✨
 
 Divertiti! 🚀
